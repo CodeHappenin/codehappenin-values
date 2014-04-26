@@ -1,4 +1,3 @@
-Codehappenin-values
-===================
+# Valores de Code Happenin'
 
-Core Values of Code Happenin'
+Code Happenin' ha definido 4 valores principales que cada integrante debe seguir.
